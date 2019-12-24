@@ -1,5 +1,7 @@
 # goldmark-subheaders
 
+[![GoDoc](https://godoc.org/github.com/mdigger/goldmark-subheaders?status.svg)](https://godoc.org/github.com/mdigger/goldmark-subheaders)
+
 [Goldmark](https://github.com/yuin/goldmark/) extension for markdown sub-headers.
 
 ```markdown
